@@ -2,6 +2,7 @@
 A Fiji/ImageJ macro for hyperstack registration. The transformation matrices are found using a single z-slice time series of channel 1 and the same transformation matrices are applied on other z slices.
 
 If you use the macro, please cite the paper: 
+
 Mendieta-Serrano MA, Dhar S, Ng BH, Narayanan R, Lee JJ, Ong HT, Toh PJ, Röllin A, Roy S, Saunders TE. Slow muscles guide fast myocyte fusion to ensure robust myotome formation despite the high spatiotemporal stochasticity of fusion events. Developmental cell. 2022 Sep 12;57(17):2095-2110.
 
 For enquiries, please contact: mbioht@nus.edu.sg
